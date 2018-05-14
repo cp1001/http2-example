@@ -21,6 +21,9 @@ yarn
 npm start
 ```
 
+### 预览地址
+http://localhost:8080
+
 ## License
 
 The MIT License (MIT)
