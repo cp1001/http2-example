@@ -11,11 +11,11 @@ http2 demo using koa and component
 ```bash
 
 # Clone this example
-git clone git://github.com/l-zhi/http2-example
+git clone https://github.com/cp1001/http2-example
 cd http2-example
 
 # Install all dependencies and build the assets
-npm install
+yarn
 
 # Start the server. Serves on port 3456 by default
 npm start
